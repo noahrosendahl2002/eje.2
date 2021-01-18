@@ -1,0 +1,64 @@
+img.marca{
+   width: 200px;
+}
+section.marca{
+    position: relative;
+    text-align: center;
+}
+p.menu{
+    color: green;
+    background-color: #6AC2BB;
+    text-align: center;
+    text-decoration: underline;
+}
+
+section.fondoblanco{
+    background-color: white;
+}
+
+h1{
+color: midnightblue;
+font-weight: 900;
+letter-spacing: 50px;
+text-align: right;
+font-weight: bold;
+text-transform: uppercase;
+}
+body{
+    background-color: hsl(67deg 11% 75%);
+}
+img.izq {
+    float: left;
+}
+h2.blue{
+    font-family: sans-serif;
+background-color: blue;
+color: blue;
+}
+h2.a23{
+    color: red;
+    background-color: red;
+    font-family: sans-serif;
+}
+img.e32{
+    float: right;
+    width: 300px;
+}
+p.red{
+    color: red;
+}
+p.e12{
+    color: blue;
+}
+section.fa{
+    background-color:#6AC2BB ;
+}
+p.foot{
+    text-align: center;
+}
+body.fondo{
+    background-color: tan;
+}
+span.siempre{
+   background-color: yellow;
+}
