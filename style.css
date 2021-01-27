@@ -62,3 +62,10 @@ body.fondo{
 span.siempre{
    background-color: yellow;
 }
+a.link{
+    color: green;
+}
+section.fondoverde{
+    background-color: #CCFE00;
+    color: blue;
+}
